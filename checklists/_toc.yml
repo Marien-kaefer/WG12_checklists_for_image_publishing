@@ -18,6 +18,7 @@ parts:
     chapters:
     - file: tutorials/intro_tutorials.md
     - file: tutorials/prepare_images_Fiji.md
+    - file: tutorials/prepare_images_Omero.md
     - file: tutorials/final_image_figures.md
   - caption: Other resources
     chapters:
